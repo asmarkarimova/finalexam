@@ -1,0 +1,25 @@
+.container{
+    max-width: 1440px;
+    width: 100%;
+}
+
+.navbar{
+
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 200px;
+}
+.navlist{
+width: 900px;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.listnavb{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+}

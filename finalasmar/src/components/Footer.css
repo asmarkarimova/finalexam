@@ -1,0 +1,20 @@
+.footer {  
+  height: 400px;
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+.iconft {
+  color: #69b4fd;
+  display: inline;
+}
+.clrlb {
+  color: #69b4fd;
+  display: inline;
+}
+.wricon {
+  display: flex;
+  gap: 10px;
+}
